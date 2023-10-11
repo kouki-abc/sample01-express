@@ -4,5 +4,11 @@
   "description": "calculator of damage",
   "main": "index.js",
   "author": "",
-  "license": "ISC"
+  "scripts": {
+    "test": "jest"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "27.5.1"
+  }
 }
